@@ -11,6 +11,7 @@ import Main from './Components/Layout/Main';
 import About from './Components/About/About';
 import Teachers from './Components/Teachers/Teachers';
 import Students from './Components/Students/Students';
+import StudentChart from './Components/Student Chart/StudentChart';
 
 const router = createBrowserRouter([
   {
@@ -31,6 +32,10 @@ const router = createBrowserRouter([
         path: 'students',
         element: <Students></Students>,
         loader: () => fetch('students.json')
+      },
+      {
+        path: 'studentChart',
+        element: <StudentChart></StudentChart>,
       },
       {
         path: 'about',
