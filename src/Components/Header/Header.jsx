@@ -12,7 +12,7 @@ const Header = () => {
 
             <Navbar bg="light" expand="lg" className='mb-4'>
                 <Container fluid>
-                    <Navbar.Brand href="#">University of North-Carolina</Navbar.Brand>
+                    <Navbar.Brand href="/">University of North-Carolina</Navbar.Brand>
                     <Navbar.Toggle aria-controls="navbarScroll" />
                     <Navbar.Collapse id="navbarScroll">
                         <Nav
@@ -30,8 +30,7 @@ const Header = () => {
                                 <Link to='/teachers'>Teachers</Link>
                                 <Link to='/students'>Students</Link>
                                 <Link to='/about'>About</Link>
-                                <Link to='/contact'>Contact</Link>
-                                <Link to='/review'>Review</Link>
+                            
                             </nav>
 
                         </Form>
