@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "index": 0,
+        "name": "Ms. Johnson",
+        "subject": "Mathematics",
+        "age": 35,
+        "gender": "Female",
+        "yearsOfExperience": 10,
+        "image": "https://example.com/ms-johnson.jpg"
+    },
+    {
+        "id": 2,
+        "index": 1,
+        "name": "Mr. Smith",
+        "subject": "English",
+        "age": 45,
+        "gender": "Male",
+        "yearsOfExperience": 20,
+        "image": "https://example.com/mr-smith.jpg"
+    },
+    {
+        "id": 3,
+        "index": 2,
+        "name": "Mrs. Rodriguez",
+        "subject": "Science",
+        "age": 40,
+        "gender": "Female",
+        "yearsOfExperience": 15,
+        "image": "https://example.com/mrs-rodriguez.jpg"
+    },
+    {
+        "id": 4,
+        "index": 3,
+        "name": "Ms. Lee",
+        "subject": "Social Studies",
+        "age": 30,
+        "gender": "Female",
+        "yearsOfExperience": 5,
+        "image": "https://example.com/ms-lee.jpg"
+    },
+    {
+        "id": 5,
+        "index": 4,
+        "name": "Mr. Brown",
+        "subject": "Physical Education",
+        "age": 50,
+        "gender": "Male",
+        "yearsOfExperience": 25,
+        "image": "https://example.com/mr-brown.jpg"
+    },
+    {
+        "id": 6,
+        "index": 5,
+        "name": "Ms. Patel",
+        "subject": "Art",
+        "age": 38,
+        "gender": "Female",
+        "yearsOfExperience": 12,
+        "image": "https://example.com/ms-patel.jpg"
+    },
+    {
+        "id": 7,
+        "index": 6,
+        "name": "Mr. Nguyen",
+        "subject": "Music",
+        "age": 42,
+        "gender": "Male",
+        "yearsOfExperience": 18,
+        "image": "https://example.com/mr-nguyen.jpg"
+    },
+    {
+        "id": 8,
+        "index": 7,
+        "name": "Mrs. Kim",
+        "subject": "Foreign Language",
+        "age": 37,
+        "gender": "Female",
+        "yearsOfExperience": 11,
+        "image": "https://example.com/mrs-kim.jpg"
+    },
+    {
+        "id": 9,
+        "index": 8,
+        "name": "Mr. Garcia",
+        "subject": "Technology",
+        "age": 48,
+        "gender": "Male",
+        "yearsOfExperience": 22,
+        "image": "https://example.com/mr-garcia.jpg"
+    },
+    {
+        "id": 10,
+        "index": 9,
+        "name": "Ms. Davis",
+        "subject": "Special Education",
+        "age": 33,
+        "gender": "Female",
+        "yearsOfExperience": 8,
+        "image": "https://example.com/ms-davis.jpg"
+    }
+]

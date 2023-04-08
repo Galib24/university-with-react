@@ -1,0 +1,137 @@
+[
+    {
+        "id": 1,
+        "index": 0,
+        "name": "Sarah Smith",
+        "age": 16,
+        "gender": "Female",
+        "gradeLevel": 11,
+        "address": {
+            "street": "123 Main St",
+            "city": "Anytown",
+            "state": "CA",
+            "zipCode": "12345"
+        },
+        "image": "https://example.com/sarah-smith.jpg"
+    },
+    {
+        "id": 2,
+        "index": 1,
+        "name": "Jack Wilson",
+        "age": 15,
+        "gender": "Male",
+        "gradeLevel": 10,
+        "address": {
+            "street": "456 Oak St",
+            "city": "Anytown",
+            "state": "CA",
+            "zipCode": "12345"
+        },
+        "image": "https://example.com/jack-wilson.jpg"
+    },
+    {
+        "id": 3,
+        "index": 2,
+        "name": "Ava Rodriguez",
+        "age": 14,
+        "gender": "Female",
+        "gradeLevel": 9,
+        "address": {
+            "street": "789 Pine St",
+            "city": "Anytown",
+            "state": "CA",
+            "zipCode": "12345"
+        },
+        "image": "https://example.com/ava-rodriguez.jpg"
+    },
+    {
+        "id": 4,
+        "index": 3,
+        "name": "Ethan Lee",
+        "age": 15,
+        "gender": "Male",
+        "gradeLevel": 10,
+        "address": {
+            "street": "321 Maple St",
+            "city": "Anytown",
+            "state": "CA",
+            "zipCode": "12345"
+        },
+        "image": "https://example.com/ethan-lee.jpg"
+    },
+    {
+        "id": 5,
+        "index": 4,
+        "name": "Sophie Kim",
+        "age": 16,
+        "gender": "Female",
+        "gradeLevel": 11,
+        "address": {
+            "street": "654 Cedar St",
+            "city": "Anytown",
+            "state": "CA",
+            "zipCode": "12345"
+        },
+        "image": "https://example.com/sophie-kim.jpg"
+    },
+    {
+        "id": 6,
+        "index": 5,
+        "name": "Michael Chen",
+        "age": 14,
+        "gender": "Male",
+        "gradeLevel": 9,
+        "address": {
+            "street": "987 Elm St",
+            "city": "Anytown",
+            "state": "CA",
+            "zipCode": "12345"
+        },
+        "image": "https://example.com/michael-chen.jpg"
+    },
+    {
+        "id": 7,
+        "index": 6,
+        "name": "Olivia Johnson",
+        "age": 17,
+        "gender": "Female",
+        "gradeLevel": 12,
+        "address": {
+            "street": "246 Walnut St",
+            "city": "Anytown",
+            "state": "CA",
+            "zipCode": "12345"
+        },
+        "image": "https://example.com/olivia-johnson.jpg"
+    },
+    {
+        "id": 9,
+        "index": 8,
+        "name": "Evelyn Davis",
+        "age": 14,
+        "gender": "Female",
+        "gradeLevel": 9,
+        "address": {
+            "street": "369 Birch St",
+            "city": "Anytown",
+            "state": "CA",
+            "zipCode": "12345"
+        },
+        "image": "https://example.com/evelyn-davis.jpg"
+    },
+    {
+        "id": 10,
+        "index": 9,
+        "name": "David Martinez",
+        "age": 16,
+        "gender": "Male",
+        "gradeLevel": 11,
+        "address": {
+            "street": "147 Oak St",
+            "city": "Anytown",
+            "state": "CA",
+            "zipCode": "12345"
+        },
+        "image": "https://example.com/david-martinez.jpg"
+    }
+]

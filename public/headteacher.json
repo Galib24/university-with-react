@@ -1,0 +1,19 @@
+{
+    "id": 1,
+    "name": "Ms. Jane Smith",
+    "age": 45,
+    "gender": "Female",
+    "position": "Head Teacher",
+    "address": {
+      "street": "789 Pine St",
+      "city": "Anytown",
+      "state": "CA",
+      "zipCode": "12345"
+    },
+    "image": "https://example.com/jane-smith.jpg",
+    "yearsOfExperience": 20,
+    "education": "Master's Degree in Education",
+    "email": "jane.smith@school.edu",
+    "phone": "555-123-4567"
+  }
+  
