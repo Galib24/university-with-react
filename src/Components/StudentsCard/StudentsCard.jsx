@@ -16,6 +16,7 @@ const StudentsCard = ({ student }) => {
                         <Card.Text>GradeLevel: {gradeLevel}</Card.Text>
                         {/* <Button variant="primary">Show Details</Button> */}
                         <h7>Age: {age}</h7>
+                        <br />
                        <h7> {address.street} </h7>
                        <h7> {address.state} </h7>
                        <h7> {address.zipCode} </h7>
