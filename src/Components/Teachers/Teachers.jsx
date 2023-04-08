@@ -1,11 +1,22 @@
 import React from 'react';
 import { useLoaderData } from 'react-router-dom';
+import TeachersCard from '../TeachersCard/TeachersCard';
 
 const Teachers = () => {
-    const teacher = useLoaderData();
+    const teachers = useLoaderData();
     return (
         <div>
-            <h1>this is teacher: {teacher.length}</h1>
+           {
+            teachers.map(teacher => <TeachersCard
+           
+            key={teacher.id}
+            teacher={teacher}
+
+           >
+
+            </TeachersCard>)
+           }
+           
         </div>
     );
 };
