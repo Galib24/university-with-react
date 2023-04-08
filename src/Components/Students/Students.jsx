@@ -1,11 +1,21 @@
 import React from 'react';
 import { useLoaderData } from 'react-router-dom';
+import StudentsCard from '../StudentsCard/StudentsCard';
+import Row from 'react-bootstrap/Row';
+import Col from 'react-bootstrap/Col';
 
 const Students = () => {
-    const student = useLoaderData();
+    const students = useLoaderData();
     return (
-        <div>
-            <h2>this is student: {student.length}</h2>
+        <div className='row row-cols-auto g-5'>
+           {
+            students.map(student => <StudentsCard
+            key={student.id}
+            student={student}
+            >
+
+            </StudentsCard>)
+           }
         </div>
     );
 };
