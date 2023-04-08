@@ -7,7 +7,7 @@ const Home = () => {
            <Card.Text className='text-uppercase fs-2 fw-bold'>
            Welcome to our home page where you can get any kind of information about our university.
           </Card.Text>
-             <Card.Img variant="top" src="../../../public/photo-1572476001596-863ecfe024a5.avif" />
+             <Card.Img variant="top" src="https://images.unsplash.com/photo-1572476001596-863ecfe024a5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80" />
         <Card.Body>
          
         </Card.Body>

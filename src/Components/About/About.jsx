@@ -4,7 +4,7 @@ const About = () => {
     return (
         <div>
             {/* about section */}
-  <img width={70} height={70} src="../../../public/imagever.avif" alt="" />
+  <img width={70} height={70} src="https://media.istockphoto.com/id/1371896330/photo/happy-asian-woman-in-his-graduation-day.jpg?s=2048x2048&w=is&k=20&c=BPxRWW2giC8njzKbwYiZWtOFbDixv2jeXdYBYRUnNSo=" alt="" />
 
             <section className='fs-5 mt-5'>
             A university is an institution of higher education that offers undergraduate and graduate programs in a wide range of academic disciplines. It is typically comprised of several schools or faculties, such as the School of Business, School of Engineering, and School of Arts and Sciences, which offer specialized degree programs in their respective fields.
