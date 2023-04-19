@@ -31,8 +31,6 @@ const Header = () => {
                             navbarScroll
                         >
 
-
-
                         </Nav>
                         <Form className="d-flex flex-columns">
                             <nav>
