@@ -3,6 +3,7 @@ import Card from 'react-bootstrap/Card';
 
 const Home = () => {
     return (
+      
         <Card>
            <Card.Text className='text-uppercase fs-2 fw-bold'>
            Welcome to our home page where you can get any kind of information about our university.
