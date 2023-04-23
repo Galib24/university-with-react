@@ -6,7 +6,6 @@ import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
 import './Header.css'
 import moment from 'moment';
-import Button from 'react-bootstrap/Button';
 import Marquee from "react-fast-marquee";
 
 const Header = () => {
@@ -16,12 +15,7 @@ const Header = () => {
                 <p>{moment().format("dddd, MMMM D, YYYY")}</p>
             </div>
             <br />
-            <div className='d-flex mb-4'>
-                <Button variant="danger">Update Info</Button>
-                <Marquee className='text-black' speed={60}>
-                    I can be a React component, multiple React components,.................I can be a React component, multiple React componentsI can be a React component, multiple React componentsI can be   a React component, multiple React components ..........
-                </Marquee>
-            </div>
+
             <Navbar bg="light" expand="lg" className='mb-4'>
                 <Container fluid>
                     <Navbar.Brand href="/">University of North-Carolina
@@ -51,6 +45,8 @@ const Header = () => {
                                 <Link to='/students'>Students</Link>
                                 <Link to='/studentChart'>Student Chart</Link>
                                 <Link to='/about'>About</Link>
+                                <Link to='/login'>Login</Link>
+                                <Link to='/signUp'>Sign Up</Link>
 
                             </nav>
 
@@ -58,6 +54,11 @@ const Header = () => {
                     </Navbar.Collapse>
                 </Container>
             </Navbar>
+            <div className='d-flex mb-4'>
+                <Marquee className='text-black' speed={60}>
+                    I can be a React component, multiple React components,.................I can be a React component, multiple React componentsI can be a React component, multiple React componentsI can be   a React component, multiple React components ..........
+                </Marquee>
+            </div>
 
         </div>
     );
